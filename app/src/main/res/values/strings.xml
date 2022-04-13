@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecondKotlinApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="random">Random</string>
+    <string name="submit">submit</string>
+    <string name="image_url">Image url</string>
+    <string name="notUrl">Это не Url</string>
+</resources>
